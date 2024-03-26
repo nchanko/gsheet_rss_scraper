@@ -8,8 +8,10 @@ This script is designed to scrape RSS feeds and save the scraped data into a Goo
 - The Google Spreadsheet must contain a sheet named `feed_lists` with:
   - RSS feed URLs in column B.
   - Feed names in column A.
-  - Sample sheet layout: ![Feed Lists Example](feed_lists.png)
-- Set the `SPREADSHEET_ID` and `SHEET_NAME` variables to your Google Spreadsheet ID and the target sheet name, respectively, as shown in this example: ![RSS Scraper Example](rss_scraper.png)
+  - Sample sheet layout: 
+![Feed Lists Example](feed_lists.png)
+- Set the `SPREADSHEET_ID` and `SHEET_NAME` variables to your Google Spreadsheet ID and the target sheet name, respectively, as shown in this example: 
+![RSS Scraper Example](rss_scraper.png)
 - Ensure the Google Apps Script project has the necessary permissions to access the Google Spreadsheet and to fetch external data from the RSS feed URLs.
 - Identify the correct RSS feed URLs of the news sources you wish to monitor.
 
