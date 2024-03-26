@@ -42,6 +42,9 @@ After execution, the target sheet in the specified Google Spreadsheet will be po
 - Error handling logs issues encountered during the RSS feed fetching process.
 - This script is tested with Google Apps Script and Google Sheets and may not work with standard JavaScript.
 
+## For ref
+- For full reference, check out this [Gsheet Url](https://docs.google.com/spreadsheets/d/1xQY6fUu-lN9MNr2pfk3dMYt6G_QNXbT5U7BNocRmWDE/edit#gid=1365274149)
+
 ---
 
 **Author**: Nyein Chan Ko Ko  
