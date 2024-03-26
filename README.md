@@ -1,3 +1,7 @@
+## Version 1.1
+- added monthly trigger
+- data will be back up with separate month sheets.
+
 # RSS Feed Scraper for Google Sheets
 
 This script is designed to scrape RSS feeds and save the scraped data into a Google Sheet. It automates the process of reading RSS feed URLs and their corresponding names from a specific sheet, fetching and parsing these feeds, and then saving the extracted data (article titles, links, descriptions, publication dates, and feed names) into a target sheet within the same Google Spreadsheet.
